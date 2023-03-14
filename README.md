@@ -1,8 +1,69 @@
-# Coding-Ninjas-iPod-Mini-Project
+# iPod-Mini-Project
 
-**This is my project submission for the Coding Ninjas Web Developing course mini project which was a react app of iPod.**
+**This is my project which was a react app of iPod.**
 
-Which was Build an iPod using React.js. The following are the instructions: Build a menu of options like you see such as Settings, Games, Music etc On clicking of the centre button go inside the menu Clicking on the menu should hide the menu and open a screen of that particular option, like settings, games etc Click and hold on the circular menu and move the mouse in a circular fashion inside the menu boundary (white circle is the menu) to navigate in the iPod menu Clicking on “Menu” should take you back to the main menu (Optionally) can create sub menu inside menu like in Music option, it has sub menu with options “All songs”, “Artists” etc.
+Build an iPod using React.js. The following are the instructions: Build a menu of options like you see such as Settings, Games, Music etc On clicking of the centre button go inside the menu Clicking on the menu should hide the menu and open a screen of that particular option, like settings, games etc Click and hold on the circular menu and move the mouse in a circular fashion inside the menu boundary (white circle is the menu) to navigate in the iPod menu Clicking on “Menu” should take you back to the main menu (Optionally) can create sub menu inside menu like in Music option, it has sub menu with options “All songs”, “Artists” etc.
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+  npm start
+```
+
+## How to Approach
+
+Steps:
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+## Screenshots
+
+![App Screenshot](/ipod.jpg?raw=true "Optional Title")
+
+## Deployment
+
+This project is deployed on :
+
+# Live view:
+
+https://akshay058.github.io/react-Ipod/
+
+# Video of Explaination
+
+# To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+## Tech Stack
+
+JavaScript, React , Life Cycle methods, props drilling to build this project
+
+## Features
+
+- Settings, Games, Music etc On clicking of the centre button go inside the menu.
+- Clicking on the menu should hide the menu and open a screen of that particular option, like settings, games etc
+- Click and hold on the circular menu and move the mouse in a circular fashion inside the menu boundary (white circle is the menu)
+  to navigate in the iPod menu
+- Clicking on “Menu” should take you back to the main menu (Optionally) can create sub menu inside menu like in Music option,
+- it has sub menu with options “All songs”, “Artists” etc.
 
 # Structure
 
@@ -103,3 +164,41 @@ Which was Build an iPod using React.js. The following are the instructions: Buil
 |-- Post Malone - White Iverson.mp3
 |-- Rick Astley - Never Gonna Give You Up.mp3
 |-- Sigrid - High Five.mp3
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+
+## Author
+
+- [@Akshay](https://www.github.com/akshay058)
