@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-Ipod/static/css/main.a2e7bd60.chunk.css",
+    "main.js": "/react-Ipod/static/js/main.62343ec5.chunk.js",
+    "main.js.map": "/react-Ipod/static/js/main.62343ec5.chunk.js.map",
+    "runtime-main.js": "/react-Ipod/static/js/runtime-main.c40fb616.js",
+    "runtime-main.js.map": "/react-Ipod/static/js/runtime-main.c40fb616.js.map",
+    "static/js/2.4667406a.chunk.js": "/react-Ipod/static/js/2.4667406a.chunk.js",
+    "static/js/2.4667406a.chunk.js.map": "/react-Ipod/static/js/2.4667406a.chunk.js.map",
+    "index.html": "/react-Ipod/index.html",
+    "precache-manifest.eb27c2e2d498dfcfa6d6c2b5c6ba6a14.js": "/react-Ipod/precache-manifest.eb27c2e2d498dfcfa6d6c2b5c6ba6a14.js",
+    "service-worker.js": "/react-Ipod/service-worker.js",
+    "static/css/main.a2e7bd60.chunk.css.map": "/react-Ipod/static/css/main.a2e7bd60.chunk.css.map",
+    "static/js/2.4667406a.chunk.js.LICENSE.txt": "/react-Ipod/static/js/2.4667406a.chunk.js.LICENSE.txt",
+    "static/media/John Denver - Country Roads.jpg": "/react-Ipod/static/media/John Denver - Country Roads.971e3181.jpg",
+    "static/media/John Denver - Country Roads.mp3": "/react-Ipod/static/media/John Denver - Country Roads.a9f11dd7.mp3",
+    "static/media/Khalid - Young Dumb Broke.jpg": "/react-Ipod/static/media/Khalid - Young Dumb Broke.2640f833.jpg",
+    "static/media/Khalid - Young Dumb Broke.mp3": "/react-Ipod/static/media/Khalid - Young Dumb Broke.e92d0309.mp3",
+    "static/media/Never Gonna Give You Up.png": "/react-Ipod/static/media/Never Gonna Give You Up.a085f2f0.png",
+    "static/media/Post Malone - White Iverson.mp3": "/react-Ipod/static/media/Post Malone - White Iverson.4977e46c.mp3",
+    "static/media/Post Malone - White Iverson.png": "/react-Ipod/static/media/Post Malone - White Iverson.68d6ebbb.png",
+    "static/media/Rick Astley - Never Gonna Give You Up.mp3": "/react-Ipod/static/media/Rick Astley - Never Gonna Give You Up.ce3d38a9.mp3",
+    "static/media/Sigrid - High Five.mp3": "/react-Ipod/static/media/Sigrid - High Five.70ab2f27.mp3",
+    "static/media/Sigrid - High Five.png": "/react-Ipod/static/media/Sigrid - High Five.92a83443.png",
+    "static/media/game.jpg": "/react-Ipod/static/media/game.0f702e6d.jpg",
+    "static/media/music.jpg": "/react-Ipod/static/media/music.86f65282.jpg",
+    "static/media/settings.png": "/react-Ipod/static/media/settings.626bd78a.png",
+    "static/media/wallpaper1.jpg": "/react-Ipod/static/media/wallpaper1.227f0ba9.jpg",
+    "static/media/wallpaper2.jpg": "/react-Ipod/static/media/wallpaper2.23077a93.jpg",
+    "static/media/wallpaper3.jpg": "/react-Ipod/static/media/wallpaper3.b2fda5ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c40fb616.js",
+    "static/js/2.4667406a.chunk.js",
+    "static/css/main.a2e7bd60.chunk.css",
+    "static/js/main.62343ec5.chunk.js"
+  ]
+}
